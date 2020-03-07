@@ -6,6 +6,13 @@
             "lastanme":"Vongsouna",
             "Age":23,
             "Address":"Dongdok"
+        },
+        {
+            "stid":"002",
+            "firstname":"Wan",
+            "lastanme":"Vongsouna",
+            "Age":23,
+            "Address":"Dongdok"
         }
     ]
 }
