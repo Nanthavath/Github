@@ -1,0 +1,11 @@
+{
+    "student":[
+        {
+            "stid":"001",
+            "firstname":"Nanthavath",
+            "lastanme":"Vongsouna",
+            "Age":23,
+            "Address":"Dongdok"
+        }
+    ]
+}
